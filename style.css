@@ -36,6 +36,9 @@ nav {
     width: 100%;
 }
 }
+.carousel-caption {
+    bottom: 25%;
+}
 @media (min-width: 992px) { 
     #text_end {
         text-align: end;
